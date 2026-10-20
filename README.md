@@ -52,7 +52,7 @@ contact:     t.me/YOUR_TELEGRAM
 ## `$ git log --projects`
 
 <div align="center">
-  <a href="https://github.com/HATheekshana/tgbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=tgbot&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
+  <a href="https://github.com/HATheekshana/recard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=tgbot&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
   <a href="https://github.com/HATheekshana/collei"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=collei&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
 </div>
 <div align="center">
@@ -91,7 +91,7 @@ contact:     t.me/YOUR_TELEGRAM
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-ff7a1a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-ff7a1a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/Renxzero)
 [![Discord](https://img.shields.io/badge/Discord-ff7a1a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YOUR_DISCORD_ID)
 [![GitHub](https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HATheekshana)
 
