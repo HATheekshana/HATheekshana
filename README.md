@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:b34700,100:ff7a1a&height=240&section=header&text=HATheekshana&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%E2%80%A2%20Bots%20%E2%80%A2%20Automation&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:b34700,100:ff7a1a&height=220&section=header&text=HATheekshana&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Bots%20%E2%80%A2%20Automation&descAlignY=58&descSize=20" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF7A1A&center=true&vCenter=true&width=800&lines=Python+Developer;Telegram+%26+Discord+Bot+Engineer;CS+Student+%40+Colombo+School+of+Computing;Read+the+source.+Ship+the+code." alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HATheekshana&label=VIEWS&color=ff7a1a&style=for-the-badge" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=HATheekshana&label=Profile%20views&color=ff7a1a&style=flat-square" alt="Views" />
 <a href="https://github.com/HATheekshana?tab=followers"><img src="https://img.shields.io/github/followers/HATheekshana?label=FOLLOWERS&style=for-the-badge&color=ff7a1a&labelColor=0d1117&logo=github" alt="Followers" /></a>
 <a href="https://github.com/HATheekshana?tab=repositories"><img src="https://img.shields.io/github/stars/HATheekshana?affiliations=OWNER&label=STARS&style=for-the-badge&color=ff7a1a&labelColor=0d1117&logo=github" alt="Stars" /></a>
 
@@ -73,16 +73,12 @@ contact:     t.me/YOUR_TELEGRAM
   <img src="https://streak-stats.demolab.com?user=HATheekshana&background=0d1117&border=30363d&ring=ff7a1a&fire=ff9f43&currStreakNum=ff7a1a&currStreakLabel=ff9f43&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HATheekshana&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-</div>
-
 ---
 
 ## `$ tail -f activity.log`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HATheekshana&bg_color=0d1117&color=ff7a1a&line=ff7a1a&point=ffffff&area=true&area_color=ff7a1a&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/ff7a1a/HATheekshana" alt="contributions" width="100%" />
 </div>
 
 <div align="center">
