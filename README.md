@@ -35,7 +35,7 @@ contact:     t.me/Renxzero
 ## `$ ls ~/skills`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=C,C++,python,git,github,linux,bash,docker,sqlite,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,bash,docker,sqlite,vscode&theme=dark" alt="skills" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ contact:     t.me/Renxzero
 ## `$ git log --projects`
 
 <div align="center">
-  <a href="https://github.com/HATheekshana/recard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=tgbot&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
+  <a href="https://github.com/HATheekshana/recard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=recard&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
   <a href="https://github.com/HATheekshana/collei"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HATheekshana&repo=collei&bg_color=0d1117&title_color=ff7a1a&icon_color=ff9f43&text_color=c9d1d9&border_color=30363d" /></a>
 </div>
 <div align="center">
