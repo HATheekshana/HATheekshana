@@ -22,12 +22,12 @@
 $ cat about.yml
 name:        Theekshana
 role:        Python Developer
-university:  Colombo School of Computing
+university:  University of Colombo School of Computing
 location:    Sri Lanka
-focus:       Telegram bots, Discord bots, userbots, automation
-stack:       Python · aiogram · Pyrogram · discord.py · Pillow
+focus:       Telegram bots, userbots, automation, Websites
+stack:       · C · C++ · Python · aiogram · Pyrogram · discord.py · Pillow
 workflow:    modular code, source over docs, self-hosted
-contact:     t.me/YOUR_TELEGRAM
+contact:     t.me/Renxzero
 ```
 
 ---
@@ -35,7 +35,7 @@ contact:     t.me/YOUR_TELEGRAM
 ## `$ ls ~/skills`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,bash,docker,sqlite,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=C,C++,python,git,github,linux,bash,docker,sqlite,vscode&theme=dark" alt="skills" />
 </div>
 
 <div align="center">
@@ -92,7 +92,8 @@ contact:     t.me/YOUR_TELEGRAM
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-ff7a1a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/Renxzero)
-[![Discord](https://img.shields.io/badge/Discord-ff7a1a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-ff7a1a?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/renx_zero
+)
 [![GitHub](https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HATheekshana)
 
 </div>
