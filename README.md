@@ -21,7 +21,7 @@
 ```bash
 $ cat about.yml
 name:        Theekshana
-role:        Python Developer
+role:        University Student
 university:  University of Colombo School of Computing
 location:    Sri Lanka
 focus:       Telegram bots, userbots, automation, Websites
